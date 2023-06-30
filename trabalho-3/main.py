@@ -156,7 +156,7 @@ while True:
                         Coloracao(grafo).execute()
 
 
-                    elif escolha_algoritmo == 8:
+                    elif escolha_algoritmo == 11:
                         print("Voltando para o menu de arquivos...\n")
                         break
 
